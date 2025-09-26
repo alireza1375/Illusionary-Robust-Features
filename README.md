@@ -12,6 +12,7 @@ We explore the susceptibility of robust models to illusionary robust features—
 To mitigate this, we propose a novel robustification algorithm that generates a purified robust dataset, improving resilience against adversarial attacks.
 
 📂 Repository Structure
+
 ├── robustification/  
 │   └── Baseline implementations of existing robustification methods  
 │
