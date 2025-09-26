@@ -37,14 +37,6 @@ MNIST: 70,000 grayscale handwritten digit images (28×28).
 
 CINIC-10: 270,000 images (CIFAR-10 + ImageNet samples), across the same 10 classes, for scalable robustness evaluation.
 
-⚙️ Setup & Requirements
-
-Clone the repository:
-
-git clone https://github.com/alireza1375/Illusionary-Robust-Features.git
-cd Illusionary-Robust-Features
-
-
 📑 Citation
 
 If you use this repository, please cite:
