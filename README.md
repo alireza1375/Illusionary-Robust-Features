@@ -23,7 +23,7 @@ To mitigate this, we propose a novel robustification algorithm that generates a 
 │   └── AutoAttack evaluation scripts and results  
 │
 ├── Purified_robust_model/  
-│   └── Proposed robustification algorithm (Purified Robust Dataset approach)  
+│   └── Proposed robustification algorithm (Purified Robust Dataset approach). By running this, you can generate the purified robust dataset. 
 │
 └── README.md  
 
